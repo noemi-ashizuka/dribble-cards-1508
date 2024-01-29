@@ -1,0 +1,25 @@
+.card-white {
+  background-color: white;
+  width: 200px;
+  padding: 8px;
+}
+
+.card-image {
+  width: 100%;
+  height: 150px;
+  background-size: cover;
+  background-position: center;
+}
+
+.card-white .list-inline {
+  text-align: right;
+  color: rgb(155, 154, 154);
+}
+
+.card-footer {
+  display: flex;
+  align-items: center;
+  margin-top: 8px;
+  gap: 4px;
+}
+
